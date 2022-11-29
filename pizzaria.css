@@ -1,0 +1,38 @@
+.topnav{
+    overflow: hidden;
+    background-color: #333;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.topnav a:hover{
+    
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.imgpizza img{
+    width: 90%;
+    padding: 50px;
+    background-color:rgb(224, 218, 218);
+}
+.texto{
+padding-left: 2%;
+font-family:Helvetica;
+
+}
+.preço{
+    float: right;
+    background-color: #333;
+}
+.footer{
+    padding: 20px;
+    text-align: center;
+    background: #777171;
+    margin-top: 20px;
+}
+    
